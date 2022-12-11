@@ -1,0 +1,4 @@
+Max resolusi
+- master web
+- master mobile
+- master security
