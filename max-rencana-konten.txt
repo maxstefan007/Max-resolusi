@@ -1,0 +1,6 @@
+RENCANA KONTEN MAX
+
+- javascript
+* ES6
+- java
+- python
