@@ -1,4 +1,4 @@
 Max resolusi
 - master web
 - master mobile
-- master security
+- master cyber security
