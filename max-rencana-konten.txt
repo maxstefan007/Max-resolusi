@@ -2,5 +2,7 @@ RENCANA KONTEN MAX
 
 - javascript
 * ES6
+* vue js
+* angular js
 - java
 - python
