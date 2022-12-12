@@ -1,0 +1,5 @@
+RENCANA KONTEN MAX
+
+- javascript
+- java
+- python
